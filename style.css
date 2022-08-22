@@ -12,5 +12,8 @@ ul{
 }
 
 #nosotros{
-    
+    background-color: #002B5B;
+    color: white;
+    margin-top: 1rem;
+    font-family: monospace;
 }
